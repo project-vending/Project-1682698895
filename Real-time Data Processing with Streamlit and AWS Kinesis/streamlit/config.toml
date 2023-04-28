@@ -1,0 +1,7 @@
+
+title = "My Streamlit App"
+description = "My first Streamlit App!"
+
+[server]
+port = 8501
+enableCORS = false
